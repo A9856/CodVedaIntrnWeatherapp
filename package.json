@@ -1,7 +1,7 @@
 {
   "name": "internweatherapppropsstate",
-  "homepage": "https://a9856.github.io/CodVedaIntrnWeatherapp",
-  "private": true,
+  "homepage": "https://a9856.github.io/CodVedaIntrnWeatherapp/",
+  
   "version": "0.0.0",
   "type": "module",
   "scripts": {
